@@ -1,10 +1,18 @@
 ﻿<Properties>
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ArrowDetector.cs">
     <Files>
       <File FileName="Assets/Scripts/Tags.cs" Line="8" Column="24" />
       <File FileName="Assets/Scripts/ArrowDetector.cs" Line="40" Column="31" />
       <File FileName="Assets/Arrow.cs" Line="7" Column="47" />
+=======
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Score.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Score.cs" Line="11" Column="1" />
+      <File FileName="Assets\Scripts\Score2.cs" Line="18" Column="1" />
+>>>>>>> FETCH_HEAD
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
