@@ -34,10 +34,12 @@ public class ArrowDetector : MonoBehaviour {
 			boolDown = true;
 		}
 
-		if(clear && other.gameObject.transform != null){
+	}
+
+	void OnTriggerStay(Collider other){
+		if(clear && other.gameObject != null){
 			Destroy(other.gameObject);
 		}
-		Debug.Log(other.gameObject.name);
 
 	}
 
@@ -56,10 +58,6 @@ public class ArrowDetector : MonoBehaviour {
 		
 		if(other.tag == Tags.arrowDown){
 			boolDown = false;
-		}
-		
-		if(clear && other.gameObject.transform != null){
-			Destroy(other.gameObject);
 		}
 	}
 
