@@ -1,18 +1,14 @@
 ﻿<Properties>
-<<<<<<< HEAD
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ArrowDetector.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../DndCharacter/Assets/Scripts/DnD/CharacterList.cs">
     <Files>
-      <File FileName="Assets/Scripts/Tags.cs" Line="8" Column="24" />
-      <File FileName="Assets/Scripts/ArrowDetector.cs" Line="40" Column="31" />
-      <File FileName="Assets/Arrow.cs" Line="7" Column="47" />
-=======
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Score.cs">
-    <Files>
-      <File FileName="Assets\Scripts\Score.cs" Line="11" Column="1" />
-      <File FileName="Assets\Scripts\Score2.cs" Line="18" Column="1" />
->>>>>>> FETCH_HEAD
+      <File FileName="../../DndCharacter/Assets/Scripts/DnD/CharacterList.cs" Line="28" Column="33" />
+      <File FileName="../../DndCharacter/Assets/Scripts/DnD/Flags.cs" Line="1" Column="1" />
+      <File FileName="../../DndCharacter/Assets/Scripts/DnD/favoriteButton.cs" Line="1" Column="1" />
+      <File FileName="../../DndCharacter/Assets/Scripts/DnD/Health.cs" Line="1" Column="1" />
+      <File FileName="../../DndCharacter/Assets/Scripts/DnD/CharacterPrefs.cs" Line="1" Column="1" />
+      <File FileName="../../DndCharacter/Assets/Scripts/DnD/flagAwake.cs" Line="1" Column="1" />
+      <File FileName="../../DndCharacter/Assets/Scripts/DnD/PersonalInfo.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
