@@ -46,18 +46,22 @@ public class ArrowDetector : MonoBehaviour {
 	void OnTriggerExit(Collider other){
 		if(other.tag == Tags.arrowLeft){
 			boolLeft = false;
+			Score.MainScore -= 1;
 		}
 		
 		if(other.tag == Tags.arrowRight){
 			boolRight = false;
+			Score.MainScore -= 1;
 		}
 		
 		if(other.tag == Tags.arrowUp){
 			boolUp = false;
+			Score.MainScore -= 1;
 		}
 		
 		if(other.tag == Tags.arrowDown){
 			boolDown = false;
+			Score.MainScore -= 1;
 		}
 	}
 
@@ -65,18 +69,22 @@ public class ArrowDetector : MonoBehaviour {
 		if(Input.GetKeyDown(KeyCode.UpArrow) 	&& boolUp){
 			Debug.Log ("This is up");
 			clear = true;
+			Score.MainScore += 1;
 		}
 		if(Input.GetKeyDown(KeyCode.DownArrow) 	&& boolDown){
 			Debug.Log ("Ain't letting you down");
 			clear = true;
+			Score.MainScore += 1;
 		}
 		if(Input.GetKeyDown(KeyCode.LeftArrow) 	&& boolLeft){
 			Debug.Log ("Left is always right");
 			clear = true;
+			Score.MainScore += 1;
 		}
 		if(Input.GetKeyDown(KeyCode.RightArrow) && boolRight){
 			Debug.Log ("Never knew right over wrong...");
 			clear = true;
+			Score.MainScore += 1;
 		}
 	}
 	
