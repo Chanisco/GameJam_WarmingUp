@@ -1,4 +1,5 @@
 ﻿<Properties>
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ArrowSpawn.cs">
     <Files>
@@ -6,6 +7,18 @@
       <File FileName="Assets\ArrowSpawn.cs" Line="1" Column="1" />
       <File FileName="Assets\Destroy.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Arrow.cs" Line="1" Column="1" />
+=======
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../DndCharacter/Assets/Scripts/DnD/Flags.cs">
+    <Files>
+      <File FileName="../../DndCharacter/Assets/Scripts/DnD/CharacterList.cs" Line="28" Column="54" />
+      <File FileName="../../DndCharacter/Assets/Scripts/DnD/Flags.cs" Line="10" Column="2" />
+      <File FileName="../../DndCharacter/Assets/Scripts/DnD/favoriteButton.cs" Line="1" Column="1" />
+      <File FileName="../../DndCharacter/Assets/Scripts/DnD/Health.cs" Line="1" Column="1" />
+      <File FileName="../../DndCharacter/Assets/Scripts/DnD/CharacterPrefs.cs" Line="1" Column="1" />
+      <File FileName="../../DndCharacter/Assets/Scripts/DnD/flagAwake.cs" Line="1" Column="1" />
+      <File FileName="../../DndCharacter/Assets/Scripts/DnD/PersonalInfo.cs" Line="1" Column="1" />
+>>>>>>> origin/master
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
