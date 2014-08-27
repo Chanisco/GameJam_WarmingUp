@@ -78,18 +78,22 @@ public class ArrowDetector : MonoBehaviour {
 
 		if(Input.GetKeyDown(KeyCode.UpArrow) 	&& boolUp){
 			Debug.Log ("This is up");
+			boolUp = false;
 			Winning = true;
 		}
 		if(Input.GetKeyDown(KeyCode.DownArrow) 	&& boolDown){
 			Debug.Log ("Ain't letting you down");
+			boolDown = false;
 			Winning = true;
 		}
 		if(Input.GetKeyDown(KeyCode.LeftArrow) 	&& boolLeft){
 			Debug.Log ("Left is always right");
+			boolLeft = false;
 			Winning = true;
 		}
 		if(Input.GetKeyDown(KeyCode.RightArrow) && boolRight){
 			Debug.Log ("Never knew right over wrong...");
+			boolRight = false;
 			Winning = true;
 		}
 
