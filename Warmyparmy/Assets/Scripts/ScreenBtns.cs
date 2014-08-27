@@ -50,10 +50,10 @@ public class ScreenBtns : MonoBehaviour {
 			WindowRect = GUI.Window(1, HugeRect, HowToFunc, "howToPlay" ,GUIStyle.none);
 
 		}*/
-		else if(clicked == "stat"){
+		/*else if(clicked == "stat"){
 			WindowRect = GUI.Window(2, HugeRect, StatFunc, "Your Stats" ,GUIStyle.none);
 
-		}
+		}*/
 		else if (clicked == "options"){
 			WindowRect = GUI.Window(3, HugeRect, optionsFunc, "Options" ,GUIStyle.none);
 
@@ -103,8 +103,8 @@ public class ScreenBtns : MonoBehaviour {
 	}
 
 	//-------------------------------------------------Stat Scherm--------//
-	private void StatFunc(int id){
-		string killPoints 		= GlobalValues.KillCount.ToString();
+	/*private void StatFunc(int id){
+	/*	string killPoints 		= GlobalValues.KillCount.ToString();
 		string expPoints 		= GlobalValues.ExpCount.ToString();
 		string goldPoints 		= GlobalValues.ExpCount.ToString();
 		string widthPoints 		= Screen.width.ToString();
@@ -120,13 +120,13 @@ public class ScreenBtns : MonoBehaviour {
 			clicked = "";
 
 		}
-	}
+	}*/
 
 	//------------------------------------------------Main Menu Scherm----------------------------//
 	private void menuFunc(int id)
 	{
 		if (GUILayout.Button(startBtn,GUIStyle.none)){
-			GlobalValues.screenStance = true;
+//			GlobalValues.screenStance = true;
 			Application.LoadLevel(LvlName);
 
 		}
