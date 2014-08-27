@@ -45,252 +45,252 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 2056
-        width: 266
-        height: 514
+        y: 2044
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_1
       rect:
         serializedVersion: 2
-        x: 266
-        y: 2056
-        width: 266
-        height: 514
+        x: 267
+        y: 2044
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_2
       rect:
         serializedVersion: 2
-        x: 532
-        y: 2056
-        width: 266
-        height: 514
+        x: 534
+        y: 2044
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_3
       rect:
         serializedVersion: 2
-        x: 798
-        y: 2056
-        width: 266
-        height: 514
+        x: 801
+        y: 2044
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_4
       rect:
         serializedVersion: 2
-        x: 1064
-        y: 2056
-        width: 266
-        height: 514
+        x: 1068
+        y: 2044
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_5
       rect:
         serializedVersion: 2
-        x: 1330
-        y: 2056
-        width: 266
-        height: 514
+        x: 1335
+        y: 2044
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_6
       rect:
         serializedVersion: 2
-        x: 1596
-        y: 2056
-        width: 266
-        height: 514
+        x: 1602
+        y: 2044
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_7
       rect:
         serializedVersion: 2
         x: 0
-        y: 1542
-        width: 266
-        height: 514
+        y: 1533
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_8
       rect:
         serializedVersion: 2
-        x: 266
-        y: 1542
-        width: 266
-        height: 514
+        x: 267
+        y: 1533
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_9
       rect:
         serializedVersion: 2
-        x: 532
-        y: 1542
-        width: 266
-        height: 514
+        x: 534
+        y: 1533
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_10
       rect:
         serializedVersion: 2
-        x: 798
-        y: 1542
-        width: 266
-        height: 514
+        x: 801
+        y: 1533
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_11
       rect:
         serializedVersion: 2
-        x: 1064
-        y: 1542
-        width: 266
-        height: 514
+        x: 1068
+        y: 1533
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_12
       rect:
         serializedVersion: 2
-        x: 1330
-        y: 1542
-        width: 266
-        height: 514
+        x: 1335
+        y: 1533
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_13
       rect:
         serializedVersion: 2
-        x: 1596
-        y: 1542
-        width: 266
-        height: 514
+        x: 1602
+        y: 1533
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_14
       rect:
         serializedVersion: 2
         x: 0
-        y: 1028
-        width: 266
-        height: 514
+        y: 1022
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_15
       rect:
         serializedVersion: 2
-        x: 266
-        y: 1028
-        width: 266
-        height: 514
+        x: 267
+        y: 1022
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_16
       rect:
         serializedVersion: 2
-        x: 532
-        y: 1028
-        width: 266
-        height: 514
+        x: 534
+        y: 1022
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_17
       rect:
         serializedVersion: 2
-        x: 798
-        y: 1028
-        width: 266
-        height: 514
+        x: 801
+        y: 1022
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_18
       rect:
         serializedVersion: 2
-        x: 1064
-        y: 1028
-        width: 266
-        height: 514
+        x: 1068
+        y: 1022
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_19
       rect:
         serializedVersion: 2
-        x: 1330
-        y: 1028
-        width: 266
-        height: 514
+        x: 1335
+        y: 1022
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_20
       rect:
         serializedVersion: 2
-        x: 1596
-        y: 1028
-        width: 266
-        height: 514
+        x: 1602
+        y: 1022
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_21
       rect:
         serializedVersion: 2
         x: 0
-        y: 514
-        width: 266
-        height: 514
+        y: 511
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_22
       rect:
         serializedVersion: 2
-        x: 266
-        y: 514
-        width: 266
-        height: 514
+        x: 267
+        y: 511
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_23
       rect:
         serializedVersion: 2
-        x: 532
-        y: 514
-        width: 266
-        height: 514
+        x: 534
+        y: 511
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_24
       rect:
         serializedVersion: 2
-        x: 798
-        y: 514
-        width: 266
-        height: 514
+        x: 801
+        y: 511
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_25
       rect:
         serializedVersion: 2
-        x: 1064
-        y: 514
-        width: 266
-        height: 514
+        x: 1068
+        y: 511
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_26
       rect:
         serializedVersion: 2
-        x: 1330
-        y: 514
-        width: 266
-        height: 514
+        x: 1335
+        y: 511
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_27
       rect:
         serializedVersion: 2
-        x: 1596
-        y: 514
-        width: 266
-        height: 514
+        x: 1602
+        y: 511
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_28
@@ -298,62 +298,62 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 266
-        height: 514
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_29
       rect:
         serializedVersion: 2
-        x: 266
+        x: 267
         y: 0
-        width: 266
-        height: 514
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_30
       rect:
         serializedVersion: 2
-        x: 532
+        x: 534
         y: 0
-        width: 266
-        height: 514
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_31
       rect:
         serializedVersion: 2
-        x: 798
+        x: 801
         y: 0
-        width: 266
-        height: 514
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_32
       rect:
         serializedVersion: 2
-        x: 1064
+        x: 1068
         y: 0
-        width: 266
-        height: 514
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_33
       rect:
         serializedVersion: 2
-        x: 1330
+        x: 1335
         y: 0
-        width: 266
-        height: 514
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
     - name: Zombie_34
       rect:
         serializedVersion: 2
-        x: 1596
+        x: 1602
         y: 0
-        width: 266
-        height: 514
+        width: 267
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
   spritePackingTag: 
