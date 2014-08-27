@@ -19,7 +19,7 @@ public class ArrowSpawn : MonoBehaviour {
 		spawnerPos = new Vector3(transform.position.x,transform.position.y,0);
 		bpm = 60 / bpm;
 		originalBeat = bpm;
-		waveAdder = originalBeat * 3;
+		waveAdder = originalBeat * 5;
 	}
 
 	void Update (){
