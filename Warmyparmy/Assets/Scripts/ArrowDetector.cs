@@ -71,6 +71,8 @@ public class ArrowDetector : MonoBehaviour {
 			Score.multiplier =1;
 			Score.addScore(-1);
 		}
+		
+		Destroy(other.gameObject, 0.7f);
 	}
 
 	void ButtonCheck(){

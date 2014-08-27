@@ -7,11 +7,6 @@ public class Arrow : MonoBehaviour {
 	void Update () {
 		speed = 5 * Time.deltaTime;
 		transform.Translate(speed,0,0);
-
-		if (transform.position.x > 15){
-			Destroy (gameObject);
-
-		}
 	}
 
 }
