@@ -50,9 +50,9 @@
      <Compile Include="Assets\Destroy.cs" />
      <Compile Include="Assets\Scripts\Arrow.cs" />
      <Compile Include="Assets\Scripts\ArrowDetector.cs" />
+     <Compile Include="Assets\Scripts\GUIScore.cs" />
      <Compile Include="Assets\Scripts\ParralaxLayerScrolling.cs" />
      <Compile Include="Assets\Scripts\Score.cs" />
-     <Compile Include="Assets\Scripts\Score2.cs" />
      <Compile Include="Assets\Scripts\Tags.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
