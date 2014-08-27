@@ -48,12 +48,9 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Arrow.cs" />
      <Compile Include="Assets\Scripts\ArrowDetector.cs" />
-<<<<<<< HEAD
      <Compile Include="Assets\Scripts\ArrowSpawn.cs" />
      <Compile Include="Assets\Scripts\Destroy.cs" />
-=======
      <Compile Include="Assets\Scripts\GUIScore.cs" />
->>>>>>> FETCH_HEAD
      <Compile Include="Assets\Scripts\ParralaxLayerScrolling.cs" />
      <Compile Include="Assets\Scripts\Score.cs" />
      <Compile Include="Assets\Scripts\Tags.cs" />
