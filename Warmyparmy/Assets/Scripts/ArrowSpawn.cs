@@ -11,17 +11,28 @@ public class ArrowSpawn : MonoBehaviour {
 	float originalBeat;
 
 	Vector3 spawnerPos;
+	float waveCounter;
+	float waveNumber;
+	float waveAdder;
 
 	void Awake(){
 		spawnerPos = new Vector3(transform.position.x,transform.position.y,0);
-		bpm /= 60;
+		bpm = 60 / bpm;
 		originalBeat = bpm;
+		waveAdder = originalBeat * 3;
 	}
 
 	void Update (){
 		if(Time.time > bpm){
 			ChooseArrow(Random.Range(1,4));
 			bpm += originalBeat;
+			waveCounter += 1;
+		}
+
+		if(waveCounter > 5){
+			bpm += waveAdder;
+			waveNumber += 1;
+			waveCounter = 0;
 		}
 	}
 
