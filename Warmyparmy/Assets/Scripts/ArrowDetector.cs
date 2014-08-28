@@ -8,6 +8,7 @@ public class ArrowDetector : MonoBehaviour {
 	bool boolUp		= false;
 
 	bool clear 		= true;
+	
 
 	void Update(){
 		ButtonCheck();

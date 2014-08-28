@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 18c6cfff310d343d98977c997bbe3da2
+guid: c35896d3fa7834fc9bafd3fa73f4dbc1
 TextureImporter:
   serializedVersion: 2
   mipmaps:
@@ -41,364 +41,364 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Mutant_1_0
+    - name: player_char_walk_animation_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 2099
-        width: 410
-        height: 299
+        y: 1162
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_1
+    - name: player_char_walk_animation_1
       rect:
         serializedVersion: 2
-        x: 410
-        y: 2099
-        width: 410
-        height: 299
+        x: 144
+        y: 1162
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_2
+    - name: player_char_walk_animation_2
       rect:
         serializedVersion: 2
-        x: 820
-        y: 2099
-        width: 410
-        height: 299
+        x: 288
+        y: 1162
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_3
+    - name: player_char_walk_animation_3
       rect:
         serializedVersion: 2
-        x: 1230
-        y: 2099
-        width: 410
-        height: 299
+        x: 432
+        y: 1162
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_4
+    - name: player_char_walk_animation_4
       rect:
         serializedVersion: 2
-        x: 1640
-        y: 2099
-        width: 410
-        height: 299
+        x: 576
+        y: 1162
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_5
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1800
-        width: 410
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-    - name: Mutant_1_6
-      rect:
-        serializedVersion: 2
-        x: 410
-        y: 1800
-        width: 410
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-    - name: Mutant_1_7
-      rect:
-        serializedVersion: 2
-        x: 820
-        y: 1800
-        width: 410
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-    - name: Mutant_1_8
-      rect:
-        serializedVersion: 2
-        x: 1230
-        y: 1800
-        width: 410
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-    - name: Mutant_1_9
-      rect:
-        serializedVersion: 2
-        x: 1640
-        y: 1800
-        width: 410
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-    - name: Mutant_1_10
+    - name: player_char_walk_animation_5
       rect:
         serializedVersion: 2
         x: 0
-        y: 1501
-        width: 410
-        height: 299
+        y: 996
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_11
+    - name: player_char_walk_animation_6
       rect:
         serializedVersion: 2
-        x: 410
-        y: 1501
-        width: 410
-        height: 299
+        x: 144
+        y: 996
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_12
+    - name: player_char_walk_animation_7
       rect:
         serializedVersion: 2
-        x: 820
-        y: 1501
-        width: 410
-        height: 299
+        x: 288
+        y: 996
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_13
+    - name: player_char_walk_animation_8
       rect:
         serializedVersion: 2
-        x: 1230
-        y: 1501
-        width: 410
-        height: 299
+        x: 432
+        y: 996
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_14
+    - name: player_char_walk_animation_9
       rect:
         serializedVersion: 2
-        x: 1640
-        y: 1501
-        width: 410
-        height: 299
+        x: 576
+        y: 996
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_15
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1202
-        width: 410
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-    - name: Mutant_1_16
-      rect:
-        serializedVersion: 2
-        x: 410
-        y: 1202
-        width: 410
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-    - name: Mutant_1_17
-      rect:
-        serializedVersion: 2
-        x: 820
-        y: 1202
-        width: 410
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-    - name: Mutant_1_18
-      rect:
-        serializedVersion: 2
-        x: 1230
-        y: 1202
-        width: 410
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-    - name: Mutant_1_19
-      rect:
-        serializedVersion: 2
-        x: 1640
-        y: 1202
-        width: 410
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-    - name: Mutant_1_20
+    - name: player_char_walk_animation_10
       rect:
         serializedVersion: 2
         x: 0
-        y: 903
-        width: 410
-        height: 299
+        y: 830
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_21
+    - name: player_char_walk_animation_11
       rect:
         serializedVersion: 2
-        x: 410
-        y: 903
-        width: 410
-        height: 299
+        x: 144
+        y: 830
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_22
+    - name: player_char_walk_animation_12
       rect:
         serializedVersion: 2
-        x: 820
-        y: 903
-        width: 410
-        height: 299
+        x: 288
+        y: 830
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_23
+    - name: player_char_walk_animation_13
       rect:
         serializedVersion: 2
-        x: 1230
-        y: 903
-        width: 410
-        height: 299
+        x: 432
+        y: 830
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_24
+    - name: player_char_walk_animation_14
       rect:
         serializedVersion: 2
-        x: 1640
-        y: 903
-        width: 410
-        height: 299
+        x: 576
+        y: 830
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_25
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 604
-        width: 410
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-    - name: Mutant_1_26
-      rect:
-        serializedVersion: 2
-        x: 410
-        y: 604
-        width: 410
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-    - name: Mutant_1_27
-      rect:
-        serializedVersion: 2
-        x: 820
-        y: 604
-        width: 410
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-    - name: Mutant_1_28
-      rect:
-        serializedVersion: 2
-        x: 1230
-        y: 604
-        width: 410
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-    - name: Mutant_1_29
-      rect:
-        serializedVersion: 2
-        x: 1640
-        y: 604
-        width: 410
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-    - name: Mutant_1_30
+    - name: player_char_walk_animation_15
       rect:
         serializedVersion: 2
         x: 0
-        y: 305
-        width: 410
-        height: 299
+        y: 664
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_31
+    - name: player_char_walk_animation_16
       rect:
         serializedVersion: 2
-        x: 410
-        y: 305
-        width: 410
-        height: 299
+        x: 144
+        y: 664
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_32
+    - name: player_char_walk_animation_17
       rect:
         serializedVersion: 2
-        x: 820
-        y: 305
-        width: 410
-        height: 299
+        x: 288
+        y: 664
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_33
+    - name: player_char_walk_animation_18
       rect:
         serializedVersion: 2
-        x: 1230
-        y: 305
-        width: 410
-        height: 299
+        x: 432
+        y: 664
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_34
+    - name: player_char_walk_animation_19
       rect:
         serializedVersion: 2
-        x: 1640
-        y: 305
-        width: 410
-        height: 299
+        x: 576
+        y: 664
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_35
+    - name: player_char_walk_animation_20
       rect:
         serializedVersion: 2
         x: 0
-        y: 6
-        width: 410
-        height: 299
+        y: 498
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_36
+    - name: player_char_walk_animation_21
       rect:
         serializedVersion: 2
-        x: 410
-        y: 6
-        width: 410
-        height: 299
+        x: 144
+        y: 498
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_37
+    - name: player_char_walk_animation_22
       rect:
         serializedVersion: 2
-        x: 820
-        y: 6
-        width: 410
-        height: 299
+        x: 288
+        y: 498
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_38
+    - name: player_char_walk_animation_23
       rect:
         serializedVersion: 2
-        x: 1230
-        y: 6
-        width: 410
-        height: 299
+        x: 432
+        y: 498
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Mutant_1_39
+    - name: player_char_walk_animation_24
       rect:
         serializedVersion: 2
-        x: 1640
-        y: 6
-        width: 410
-        height: 299
+        x: 576
+        y: 498
+        width: 144
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_walk_animation_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 144
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_walk_animation_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 332
+        width: 144
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_walk_animation_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 332
+        width: 144
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_walk_animation_28
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 332
+        width: 144
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_walk_animation_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 332
+        width: 144
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_walk_animation_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 144
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_walk_animation_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 166
+        width: 144
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_walk_animation_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 166
+        width: 144
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_walk_animation_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 166
+        width: 144
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_walk_animation_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 166
+        width: 144
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_walk_animation_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_walk_animation_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 144
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_walk_animation_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 144
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_walk_animation_38
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 144
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_walk_animation_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 144
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
   spritePackingTag: 
