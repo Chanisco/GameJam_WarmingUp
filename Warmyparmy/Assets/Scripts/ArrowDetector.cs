@@ -10,6 +10,8 @@ public class ArrowDetector : MonoBehaviour {
 	bool clear 		= true;
 	
 
+	int successiveHits = 0;
+
 	void Update(){
 		ButtonCheck();
 	}
@@ -71,6 +73,7 @@ public class ArrowDetector : MonoBehaviour {
 		{
 			Score.multiplier =1;
 			Score.addScore(-1);
+			successiveHits =0;
 		}
 		
 		Destroy(other.gameObject, 0.7f);
@@ -100,6 +103,12 @@ public class ArrowDetector : MonoBehaviour {
 		{
 			clear = true;
 			Score.addScore(1);
+			successiveHits ++;
+			if (successiveHits % 2 == 0)
+			{
+				Score.multiplier*=2;
+				print(Score.multiplier);
+			}
 		}
 
 	}
