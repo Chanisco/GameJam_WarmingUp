@@ -107,7 +107,7 @@ public class ArrowDetector : MonoBehaviour {
 			if (successiveHits % 2 == 0)
 			{
 				Score.multiplier*=2;
-				print(Score.multiplier);
+//				print(Score.multiplier);
 			}
 		}
 

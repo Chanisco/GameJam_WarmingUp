@@ -14,6 +14,9 @@ public class ArrowSpawn : MonoBehaviour {
 	float waveCounter;
 	float waveNumber;
 	float waveAdder;
+
+	public bool musicStart = false;
+	public AudioClip Song;
 	public static int i = 0;
 
 	void Awake(){
@@ -24,6 +27,10 @@ public class ArrowSpawn : MonoBehaviour {
 	}
 
 	void Update (){
+		if(!musicStart){
+			AudioSource.PlayClipAtPoint(Song,new Vector3(0,0,0));
+			musicStart = true;
+		}
 		if(i != Beats.Ritme.Count - 1){
 			if(Time.time > /*bpm*/ Beats.Ritme[i]){
 				ChooseArrow(Random.Range(1,4));

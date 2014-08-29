@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 3985c35db6d4d450f875447120e2d191
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: player_char_flash_walk_fast_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 857
+        width: 110
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 853
+        width: 101
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 850
+        width: 95
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_3
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 847
+        width: 87
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 844
+        width: 80
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 675
+        width: 74
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 673
+        width: 76
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 673
+        width: 84
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 675
+        width: 91
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_9
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 677
+        width: 93
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 510
+        width: 95
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 512
+        width: 98
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 518
+        width: 99
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_13
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 524
+        width: 114
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_14
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 530
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 141
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 364
+        width: 132
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_17
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 357
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_18
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 352
+        width: 106
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_19
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 347
+        width: 104
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 175
+        width: 103
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 173
+        width: 103
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 171
+        width: 103
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_23
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 175
+        width: 94
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_24
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 173
+        width: 84
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 6
+        width: 84
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 8
+        width: 89
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_27
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 12
+        width: 96
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_28
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 18
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: player_char_flash_walk_fast_29
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 22
+        width: 110
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
