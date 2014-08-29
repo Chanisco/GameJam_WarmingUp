@@ -1,14 +1,17 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class ArrowDetector : MonoBehaviour {
+public class ArrowDetector : MonoBehaviour 
+{
+
+	public static int totalSuccessiveHits = 0;
+
 	bool boolLeft	= false;
 	bool boolRight 	= false;
 	bool boolDown	= false;
 	bool boolUp		= false;
 
 	bool clear 		= true;
-	
 
 	int successiveHits = 0;
 
@@ -115,7 +118,8 @@ public class ArrowDetector : MonoBehaviour {
 			clear = true;
 			Score.addScore(1);
 			successiveHits ++;
-			if (successiveHits % 2 == 0)
+			totalSuccessiveHits++;
+			if (successiveHits % 10 == 0)
 			{
 				Score.multiplier*=2;
 //				print(Score.multiplier);
