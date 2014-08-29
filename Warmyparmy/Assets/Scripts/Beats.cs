@@ -59,7 +59,13 @@ public static class Beats{
 		33.7f,
 		33.9f,
 
-		37.4f
+		//37.4f,
+
+		//38.0f,
+		38.5f,
+		38.7f,
+		38.9f
+
 
 
 

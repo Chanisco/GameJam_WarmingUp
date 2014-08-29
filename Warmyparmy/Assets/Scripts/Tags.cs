@@ -6,4 +6,6 @@ public static class Tags{
 	public static string arrowDown 		= "PijltjeOmlaag";
 	public static string arrowLeft 		= "PijltjeLinks";
 	public static string arrowRight 	= "PijltjeRechts";
+
+	public static string Enemy 			= "Enemy";
 }

@@ -1,13 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LayerParticle.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ArrowDetector.cs">
     <Files>
       <File FileName="Assets/Scripts/ArrowSpawn.cs" Line="31" Column="57" />
-      <File FileName="Assets/Scripts/ArrowDetector.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Arrow.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Beats.cs" Line="54" Column="7" />
-      <File FileName="Assets/ZombieWave.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Beats.cs" Line="57" Column="8" />
+      <File FileName="Assets/ZombieWave.cs" Line="21" Column="4" />
       <File FileName="Assets/LayerParticle.cs" Line="9" Column="4" />
+      <File FileName="Assets/Character.cs" Line="22" Column="3" />
+      <File FileName="Assets/Scripts/ArrowDetector.cs" Line="110" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

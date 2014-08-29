@@ -85,20 +85,31 @@ public class ArrowDetector : MonoBehaviour {
 		if(Input.GetKeyDown(KeyCode.UpArrow) 	&& boolUp){
 			boolUp = false;
 			Winning = true;
+		}else if(Input.GetKeyDown(KeyCode.UpArrow) 	&& !boolUp){
+			Character.FallCount = 5;
+			Character.Fall = true;
 		}
 		if(Input.GetKeyDown(KeyCode.DownArrow) 	&& boolDown){
 			boolDown = false;
 			Winning = true;
+		}else if(Input.GetKeyDown(KeyCode.DownArrow) 	&& !boolDown){
+			Character.FallCount = 5;
+			Character.Fall = true;
 		}
 		if(Input.GetKeyDown(KeyCode.LeftArrow) 	&& boolLeft){
 			boolLeft = false;
 			Winning = true;
+		}else if(Input.GetKeyDown(KeyCode.LeftArrow) 	&& !boolLeft){
+			Character.FallCount = 5;
+			Character.Fall = true;
 		}
 		if(Input.GetKeyDown(KeyCode.RightArrow) && boolRight){
 			boolRight = false;
 			Winning = true;
+		}else if(Input.GetKeyDown(KeyCode.RightArrow) 	&& !boolRight){
+			Character.FallCount = 5;
+			Character.Fall = true;
 		}
-
 		if (Winning) 
 		{
 			clear = true;
