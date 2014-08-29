@@ -57,7 +57,7 @@ public class startMenuGUI : MonoBehaviour
 		{
 			if (GUI.Button (new Rect(buttPosX,buttPosY + (buttSizeY + buttSpacing)*0,buttSizeX,buttSizeY), startButtonTexture, GUIStyle.none))
 			{ // start
-				Application.LoadLevel(0);
+				Application.LoadLevel(1);
 			}
 		}
 		if (instructionButtonTexture != null) 

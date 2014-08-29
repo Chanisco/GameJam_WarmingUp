@@ -1,6 +1,7 @@
 ﻿// // // // // // // // 
-// 19 / 08 / 14   // //
+// 29 / 08 / 14   // //
 // By Floris de Haan //
+// And Chanisco Tromp// 
 // // // // // // // //
 
 using UnityEngine;
@@ -23,7 +24,6 @@ public class Character : MonoBehaviour
 		animator = GetComponent<Animator>();
         _targetX = transform.position.x;
 	}
-<<<<<<< HEAD:Warmyparmy/Assets/Character.cs
 	
 	void Update ()
     {
@@ -42,13 +42,8 @@ public class Character : MonoBehaviour
         if(ArrowSpawn.i > 40)
         {
 			animator.SetBool("Solo", true);
-=======
-
-	void Update () {
-		if(Fall){
-			PositionMaker(Lives);
->>>>>>> origin/master:Warmyparmy/Assets/Scripts/Character.cs
 		}
+
 	}
 
     private void MoveToTarget()
@@ -79,8 +74,7 @@ public class Character : MonoBehaviour
     public static void Accelerate()
     {
         if (Lives > 6) return;
-        print("Acc");
-        _targetX += 2f;
+     	 _targetX += 1f;
         Lives++;
     }
 

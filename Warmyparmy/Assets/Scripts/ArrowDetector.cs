@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿/*Developed by Chanisco Tromp*/
+using UnityEngine;
 using System.Collections;
 
 public class ArrowDetector : MonoBehaviour 

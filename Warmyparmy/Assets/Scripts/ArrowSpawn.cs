@@ -1,4 +1,5 @@
-﻿ using UnityEngine;
+﻿/*Developed by Chanisco Tromp*/
+using UnityEngine;
 using System.Collections;
 
 public class ArrowSpawn : MonoBehaviour {
@@ -18,21 +19,30 @@ public class ArrowSpawn : MonoBehaviour {
 	public bool musicStart = false;
 	public AudioClip Song;
 	public static int i = 0;
+	float time;
+
+	bool SceneStart = false;
 
 	void Awake(){
 		spawnerPos = new Vector3(transform.position.x,transform.position.y,0);
 		bpm = 60 / bpm;
 		originalBeat = bpm;
 		waveAdder = originalBeat * 5;
+
+	}
+
+	void Start(){
+		SceneStart = true;
 	}
 
 	void Update (){
+		time = time + Time.deltaTime;
 		if(!musicStart){
 			AudioSource.PlayClipAtPoint(Song,new Vector3(0,0,0));
 			musicStart = true;
 		}
 		if(i != Beats.Ritme.Count - 1){
-			if(Time.time > /*bpm*/ Beats.Ritme[i]){
+			if(time > /*bpm*/ Beats.Ritme[i]){
 				ChooseArrow(Random.Range(1,4));
 				bpm += originalBeat;
 				waveCounter += 1;
