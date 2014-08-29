@@ -89,29 +89,25 @@ public class ArrowDetector : MonoBehaviour
 			boolUp = false;
 			Winning = true;
 		}else if(Input.GetKeyDown(KeyCode.UpArrow) 	&& !boolUp){
-			Character.FallCount = 5;
-			Character.Fall = true;
+            Character.Hit();
 		}
 		if(Input.GetKeyDown(KeyCode.DownArrow) 	&& boolDown){
 			boolDown = false;
 			Winning = true;
 		}else if(Input.GetKeyDown(KeyCode.DownArrow) 	&& !boolDown){
-			Character.FallCount = 5;
-			Character.Fall = true;
+            Character.Hit();
 		}
 		if(Input.GetKeyDown(KeyCode.LeftArrow) 	&& boolLeft){
 			boolLeft = false;
 			Winning = true;
 		}else if(Input.GetKeyDown(KeyCode.LeftArrow) 	&& !boolLeft){
-			Character.FallCount = 5;
-			Character.Fall = true;
+            Character.Hit();
 		}
 		if(Input.GetKeyDown(KeyCode.RightArrow) && boolRight){
 			boolRight = false;
 			Winning = true;
 		}else if(Input.GetKeyDown(KeyCode.RightArrow) 	&& !boolRight){
-			Character.FallCount = 5;
-			Character.Fall = true;
+            Character.Hit();
 		}
 		if (Winning) 
 		{
@@ -119,10 +115,12 @@ public class ArrowDetector : MonoBehaviour
 			Score.addScore(1);
 			successiveHits ++;
 			totalSuccessiveHits++;
-			if (successiveHits % 10 == 0)
+
+            // Success spree of 10
+			if (successiveHits % 2 == 0)
 			{
 				Score.multiplier*=2;
-//				print(Score.multiplier);
+                Character.Accelerate();
 			}
 		}
 
