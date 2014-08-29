@@ -16,8 +16,6 @@ public class ZombieWave : MonoBehaviour {
 				transform.Translate(1 * Time.deltaTime,0,0);
 			}
 		}
-		if(ArrowSpawn.i > 10){
-			animator.speed = 5;
-		}
+
 	}
 }

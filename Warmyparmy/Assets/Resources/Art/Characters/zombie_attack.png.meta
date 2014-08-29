@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 276ccc3ca23144e68a6c9e878c34c7a0
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: zombie_attack_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3036
+        width: 494
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_1
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 3039
+        width: 487
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_2
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3039
+        width: 481
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_3
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 3039
+        width: 475
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_4
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 3039
+        width: 467
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2701
+        width: 463
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_6
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2701
+        width: 454
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_7
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 2704
+        width: 445
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_8
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2699
+        width: 442
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_9
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 2704
+        width: 434
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2368
+        width: 422
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_11
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2368
+        width: 408
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_12
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2361
+        width: 401
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_13
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 2358
+        width: 394
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_14
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 2356
+        width: 388
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2022
+        width: 379
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_16
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2026
+        width: 375
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_17
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 2035
+        width: 369
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_18
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 2042
+        width: 362
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_19
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 2042
+        width: 357
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_20
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1720
+        width: 366
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_21
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1726
+        width: 376
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_22
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1729
+        width: 386
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_23
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 1733
+        width: 396
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_24
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1736
+        width: 411
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1417
+        width: 414
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1430
+        width: 412
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_27
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1440
+        width: 412
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_28
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1450
+        width: 412
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_29
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1446
+        width: 420
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1098
+        width: 418
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_31
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1084
+        width: 418
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_32
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1075
+        width: 421
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_33
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1062
+        width: 418
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_34
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1051
+        width: 422
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 709
+        width: 420
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_36
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 706
+        width: 428
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_37
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 699
+        width: 428
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_38
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 696
+        width: 428
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_39
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 690
+        width: 432
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 436
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_41
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 347
+        width: 438
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_42
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 344
+        width: 442
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_43
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 341
+        width: 441
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_44
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 337
+        width: 444
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5
+        width: 456
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_46
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 8
+        width: 464
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_47
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8
+        width: 474
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_48
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 8
+        width: 481
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: zombie_attack_49
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 0
+        width: 494
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

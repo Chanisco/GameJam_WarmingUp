@@ -5,7 +5,11 @@ public class Arrow : MonoBehaviour {
 	// Update is called once per frame
 	float speed;
 	void Update () {
-		speed = 5 * Time.deltaTime;
+		if(ArrowSpawn.i < 40){
+			speed = 5 * Time.deltaTime;
+		}else{
+			speed = 7 * Time.deltaTime;
+		}
 		transform.Translate(speed,0,0);
 	}
 

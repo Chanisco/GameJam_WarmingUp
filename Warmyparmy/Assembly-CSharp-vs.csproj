@@ -46,22 +46,24 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Character.cs" />
-     <Compile Include="Assets\LayerParticle.cs" />
      <Compile Include="Assets\Scripts\Arrow.cs" />
      <Compile Include="Assets\Scripts\ArrowDetector.cs" />
      <Compile Include="Assets\Scripts\ArrowSpawn.cs" />
      <Compile Include="Assets\Scripts\Beats.cs" />
+     <Compile Include="Assets\Scripts\Character.cs" />
      <Compile Include="Assets\Scripts\Destroy.cs" />
      <Compile Include="Assets\Scripts\GUIScore.cs" />
+     <Compile Include="Assets\Scripts\LayerParticle.cs" />
      <Compile Include="Assets\Scripts\MainMenu.cs" />
      <Compile Include="Assets\Scripts\ParallaxBG.cs" />
      <Compile Include="Assets\Scripts\ParallaxBGController.cs" />
      <Compile Include="Assets\Scripts\Score.cs" />
+     <Compile Include="Assets\Scripts\Scorebar.cs" />
      <Compile Include="Assets\Scripts\ScreenBtns.cs" />
      <Compile Include="Assets\Scripts\Tags.cs" />
+     <Compile Include="Assets\Scripts\ZombieAnimator.cs" />
+     <Compile Include="Assets\Scripts\ZombieWave.cs" />
      <Compile Include="Assets\Scripts\startMenuGUI.cs" />
-     <Compile Include="Assets\ZombieWave.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

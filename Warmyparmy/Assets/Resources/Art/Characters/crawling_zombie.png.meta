@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 85dd847eb553542afaa4787b5585266e
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: crawling_zombie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1273
+        width: 493
+        height: 173
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_1
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1254
+        width: 487
+        height: 218
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_2
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1249
+        width: 482
+        height: 231
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1009
+        width: 481
+        height: 221
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_4
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1009
+        width: 482
+        height: 223
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_5
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1009
+        width: 485
+        height: 221
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_6
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1009
+        width: 482
+        height: 221
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_7
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1009
+        width: 482
+        height: 235
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 466
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_9
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 776
+        width: 446
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_10
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 776
+        width: 434
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_11
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 776
+        width: 453
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_12
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 750
+        width: 467
+        height: 252
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 464
+        height: 233
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_14
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 498
+        width: 465
+        height: 233
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_15
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 498
+        width: 468
+        height: 233
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_16
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 500
+        width: 467
+        height: 231
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_17
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 499
+        width: 482
+        height: 232
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 483
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_19
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 253
+        width: 485
+        height: 219
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_20
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 256
+        width: 487
+        height: 213
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_21
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 258
+        width: 487
+        height: 209
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_22
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 260
+        width: 489
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 488
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: crawling_zombie_24
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 23
+        width: 493
+        height: 173
+      alignment: 1
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
