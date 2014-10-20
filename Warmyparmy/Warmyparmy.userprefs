@@ -1,9 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Beats.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ArrowSpawn.cs">
     <Files>
-      <File FileName="Assets/Scripts/ArrowSpawn.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Beats.cs" Line="11" Column="3" />
+      <File FileName="Assets/Scripts/ArrowSpawn.cs" Line="51" Column="11" />
+      <File FileName="Assets/Scripts/Beats.cs" Line="103" Column="18" />
       <File FileName="Assets/Scripts/Character.cs" Line="1" Column="1" />
       <File FileName="../../SimDays/Assets/Script/Social Interactions/Conversations.cs" Line="1" Column="1" />
     </Files>
