@@ -1,9 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../DndCharacter/Assets/Scripts/Mobile/Swipe.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Beats.cs">
     <Files>
-      <File FileName="../../DndCharacter/Assets/Scripts/DnD/flags/flagAwake.cs" Line="1" Column="1" />
-      <File FileName="../../DndCharacter/Assets/Scripts/Mobile/Swipe.cs" Line="39" Column="44" />
+      <File FileName="Assets/Scripts/ArrowSpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Beats.cs" Line="11" Column="3" />
+      <File FileName="Assets/Scripts/Character.cs" Line="1" Column="1" />
+      <File FileName="../../SimDays/Assets/Script/Social Interactions/Conversations.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
